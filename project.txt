@@ -1,0 +1,11 @@
+gulp
+public html map js/html standaard
+images (eventueel met queue?)
+scss
+
+base modules zoals:
+- pages
+- menu's
+
+- gitignore instellen
+- alles naar bitbucket

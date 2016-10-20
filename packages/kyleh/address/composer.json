@@ -1,0 +1,12 @@
+{
+    "name": "kyleh/address",
+    "description": "Address",
+    "authors": [
+        {
+            "name": "Kyle Hellenbrand",
+            "email": "thekyle@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

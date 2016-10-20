@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAAA;EACE,aAAa;EACb,cAAc;EACd,kBAAkB,EACnB","file":"style.css","sourcesContent":[".test{\r\n  width: 700px;\r\n  height: 700px;\r\n  background: green;\r\n}"],"sourceRoot":"/source/"}
